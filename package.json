@@ -1,0 +1,1 @@
+{"description":"Tiny dependency-free callback server for authorized out-of-band security testing (SSRF / blind-injection PoCs). Logs every hit.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"oob-callback-server","scripts":{"start":"node server.js"},"version":"1.0.0"}
